@@ -4,8 +4,6 @@ export default function HomePage() {
   return (
     <main>
       <Calculator />
-      <br />
-      <br />
     </main>
   );
 }
